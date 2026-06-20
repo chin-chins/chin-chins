@@ -4,12 +4,13 @@
 <img align="left" src="assets/airplane-pikmin.png" width="300" /> 
 
 ```
-welcome to my code next :3 
+welcome to my code nest :3 
 -------------------------
 🏫 USC
 📜 Computer Engineering & Computer Science, minor in Cinematic Arts 𝄞⨾𓍢ִ໋⋆🎞️ 𖥔 ݁ ˖
 🌱 working on web development // hardware projects 
 🤖 Languages: C++, HTML, CSS, JSX, React
-✏️ Interests: coding (duh), crocheting, playing/listening to music, watching movies/anime, eating good food, + more :> 
+✏️ Interests: coding (duh), crocheting, playing/listening to music,
+    watching movies/anime, eating good food, + more :> 
 ```
 </p>
